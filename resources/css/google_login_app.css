@@ -1,0 +1,11 @@
+
+
+.google-login-icons{
+    align-items: center;
+    text-align: center;
+    align-content: center;
+}
+
+.google-login-icons i {
+    margin-right: 20px;
+}

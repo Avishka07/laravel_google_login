@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-google {
+    background-color: #4285F4;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 4px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.btn-google i {
+    margin-right: 8px;
+}
+
+.google-login-icons{
+    align-items: center;
+    text-align: center;
+    align-content: center;
+}
+
+.google-login-icons i {
+    margin-right: 20px;
+}

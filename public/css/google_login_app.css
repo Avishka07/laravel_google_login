@@ -1,0 +1,19 @@
+
+
+.google-login-icons{
+    align-items: center;
+    text-align: center;
+    align-content: center;
+}
+
+.google-login-icons i {
+    font-size: 36px;
+}
+
+.google-login-icons h2{
+    font-size: 20px;
+}
+
+.google-login-icons h3 {
+    font-size: 18px;
+}
